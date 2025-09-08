@@ -6,6 +6,7 @@ Collection of coding practice problems with solutions.
 2. [Binary to Decimal](#binary-to-decimal)
 3. [Decimal to Binary](#decimal-to-binary)
 4. [Check Prime Number](#check-prime-number)
+5. [Reverse Integer](#reverse-integer)
 
 ## Butterfly Pattern
 * Print a butterfly pattern using stars (`*`).
@@ -20,3 +21,6 @@ Collection of coding practice problems with solutions.
 
 ## Check Prime Number
 * Checks whether a number is prime or not.
+## Reverse Integer
+* Can reverse any integer.
+* Also deals with negative value.

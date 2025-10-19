@@ -1,0 +1,14 @@
+cout<< "Smallest in Array "<<smallestInArray(givenArray,size)<<endl;
+    cout<<"Largest in Array "<<largestInArray(givenArray,size)<<endl;
+    cout<<"Target index "<<linearSearch(givenArray,size,target)<<endl;
+    printArray(givenArray,size);
+    reverseArray(givenArray,size);
+    printArray(givenArray,size);
+    cout<<"Sum of Array "<<sumArray(givenArray,size)<<endl;
+    cout<<"Product of Array "<<productArray(givenArray,size)<<endl;
+    cout<<"Before Swapping "<<endl;
+    printArray(givenArray,size);
+    swapMaxMin(givenArray,size);
+    cout<<"After Swapping "<<endl;  
+    printArray(givenArray,size);
+    intersectionArr(givenArray,givenArray2,size,size2);
